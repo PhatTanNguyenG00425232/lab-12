@@ -1,0 +1,7 @@
+{
+  "name": "plygin-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
